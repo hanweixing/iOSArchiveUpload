@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 
 # 这个脚本的作用是打包上传到App Store上.
 
